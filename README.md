@@ -3,6 +3,7 @@
 
 STUDENT NAME: NEEMA Esther
 STUDENT ID: 29706
+GROUP: I
 DBMS used: postgresSQL
 
 ## 1. Project Description
